@@ -1,0 +1,9 @@
+[theme]
+base="dark"
+primaryColor="mediumSlateBlue"
+borderColor="mediumSlateBlue"
+showWidgetBorder=false
+
+[theme.sidebar]
+primaryColor="mediumSlateBlue"
+showWidgetBorder=true
